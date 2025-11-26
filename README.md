@@ -1,0 +1,1 @@
+# Synthetic-Data-Generation-and-Prediction-for-Corporate-rating-using-Baysian-and-MCMC-techniques
